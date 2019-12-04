@@ -59,7 +59,7 @@
                         <strong>Currently pursing B.Tech Computer Science from Shri Guru Gobind Sinjhji Institute of engineering and technology,Vishnupuri, Nanded, Maharashtra. </strong>
                     </p>
 
-                    <a target="_blank" href="myProjects.php" class="btn btn-indigo btn-lg">Projects
+                    <a href="myProjects.php" class="btn btn-indigo btn-lg">Projects
                         <i class="fas fa-graduation-cap ml-2"></i>
                     </a>
                 </div>

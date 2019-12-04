@@ -21,8 +21,18 @@
         opacity: 50;
     }
     body{
-        color: black;
+        background-color: black;
+        color: white;
     }
+
+    
+    html,
+    body,
+    .view {
+        height: 100%;
+    }
+
+
 </style>
 <body>
 
