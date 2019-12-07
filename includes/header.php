@@ -24,15 +24,6 @@
         background-color: black;
         color: white;
     }
-
-    
-    html,
-    body,
-    .view {
-        height: 100%;
-    }
-
-
 </style>
 <body>
 
@@ -62,13 +53,13 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">About Me</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">My Projects</a>
+                        <a class="nav-link" href="myProjects.php">My Projects</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Gallery</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">About Me</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Contact Me</a>

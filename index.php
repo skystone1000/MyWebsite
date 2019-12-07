@@ -12,6 +12,10 @@
         height: 100%;
     }
 
+    .intrests:hover {
+	    box-shadow: 0px 0px 40px 16px rgba(18,18,18,1.00);
+    }
+
     @media (max-width: 740px) {
         html,
         body,
@@ -56,7 +60,7 @@
                         <strong>Well inshort about me?? &#128521; </strong>
                     </p>
                     <p class="mb-4 d-none d-md-block">
-                        <strong>Currently pursing B.Tech Computer Science from Shri Guru Gobind Sinjhji Institute of engineering and technology,Vishnupuri, Nanded, Maharashtra. </strong>
+                        <strong>Currently pursing B.Tech Computer Science from Shri Guru Gobind Singhji Institute of engineering and technology,Vishnupuri, Nanded, Maharashtra. </strong>
                     </p>
 
                     <a href="myProjects.php" class="btn btn-indigo btn-lg">Projects
@@ -67,9 +71,9 @@
                 <!--Grid column-->
                 <div class="col-md-6 col-xl-5 mb-4">
                     <!--Card-->
-                    <div class="card trans-card">
+                    <div class="card trans-card z-depth-5">
                         <!--Card content-->
-                        <div class="card-body">
+                        <div class="intrests card-body">
                             <!-- Form -->
                             <form name="" class="white-text opacity-50 ">
                                 <!-- Heading -->
