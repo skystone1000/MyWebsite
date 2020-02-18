@@ -7,11 +7,11 @@
 
 <div class="gallery">
     <div class="gallery-container">
-      <img class="gallery-item" src="http://fakeimg.pl/300/?text=1">    
-      <img class="gallery-item" src="http://fakeimg.pl/300/?text=2">
-      <img class="gallery-item" src="http://fakeimg.pl/300/?text=3">
-      <img class="gallery-item" src="http://fakeimg.pl/300/?text=4">
-      <img class="gallery-item" src="http://fakeimg.pl/300/?text=5">
+      <img class="gallery-item" src="img/I1.jpg">    
+      <img class="gallery-item" src="img/I2.jpeg">
+      <img class="gallery-item" src="img/I3.jpg">
+      <img class="gallery-item" src="img/I4.jpg">
+      <img class="gallery-item" src="img/I5.jpeg">
     </div>
     <div class="gallery-controls"></div>
   </div>

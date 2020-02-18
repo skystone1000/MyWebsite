@@ -32,7 +32,7 @@
         <div class="container">
 
             <!-- Brand -->
-            <a class="navbar-brand" href="#" target="_blank">
+            <a class="navbar-brand" href="#">
                 <strong>Skystone1000</strong>
             </a>
 
